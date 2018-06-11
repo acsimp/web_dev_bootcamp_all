@@ -1,0 +1,14 @@
+{
+  "name": "package-test",
+  "version": "1.0.0",
+  "description": "fg",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Simpson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
